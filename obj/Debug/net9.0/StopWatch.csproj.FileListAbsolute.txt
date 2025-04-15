@@ -1,0 +1,4 @@
+C:\Users\troll\OneDrive\Desktop\Programing\dotNet\StopWatch\obj\Debug\net9.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troll\OneDrive\Desktop\Programing\dotNet\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\troll\OneDrive\Desktop\Programing\dotNet\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfo.cs
+C:\Users\troll\OneDrive\Desktop\Programing\dotNet\StopWatch\obj\Debug\net9.0\StopWatch.csproj.CoreCompileInputs.cache
